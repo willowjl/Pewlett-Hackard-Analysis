@@ -14,6 +14,6 @@ Employees Leaving by Title ![image](https://user-images.githubusercontent.com/11
 #### The number of roles that will need to be filled depends on how many employees are willing to postpone their retirement to support the organization. Some department may be more important to the overall operation of an organization. The leadership will have to make that determination based on their need and expected outcomes. Using a few SQL query, we were able to determine that the top 3 departments thag would be impacted the most are Development, Production, and Sales with a total of 13,505 employees.
 Employees leaving by Department <img width="280" alt="image" src="https://user-images.githubusercontent.com/111030781/203207696-da53967a-6ee6-4d1b-bdcf-c1d05dad1726.png">
 
-### Query used
+### Query used:
 * By Department <img width="818" alt="image" src="https://user-images.githubusercontent.com/111030781/203207893-9013eb4c-b698-41e7-ac9f-0d008f2ce693.png">
 * To Group the data <img width="395" alt="image" src="https://user-images.githubusercontent.com/111030781/203208042-4a199b2d-c72b-4df2-b028-234ab1e32b44.png">
