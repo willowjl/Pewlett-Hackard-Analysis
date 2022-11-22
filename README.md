@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 ####  Pewlett-Hackard analysis is to prepare for an upcoming tsunami in a company with a few thousands employees. Many of the employees are planning to retire soon and the company would like to start looking ahead and planning the retiring packages and identify other resources to remain sustainable. The task started by creating a couple tables to determine the number of retiring employees, and the another to to identify employees to participate in the mentorship program.
-EmployeesTitleSum.PNG![image](https://user-images.githubusercontent.com/111030781/203207119-2fbf672a-e83a-48aa-904a-8448ee3f7338.png)
+Employees Leaving by Department![image](https://user-images.githubusercontent.com/111030781/203207119-2fbf672a-e83a-48aa-904a-8448ee3f7338.png)
 
 ## Results:
 #### * During the analysis, it was determined that the majority of those retiring were Sr Engineers and Sr Staff Accounting.
