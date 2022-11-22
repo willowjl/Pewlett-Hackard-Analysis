@@ -15,4 +15,5 @@ Employees Leaving by Title ![image](https://user-images.githubusercontent.com/11
 Employees leaving by Department <img width="280" alt="image" src="https://user-images.githubusercontent.com/111030781/203207696-da53967a-6ee6-4d1b-bdcf-c1d05dad1726.png">
 
 ### Query used
-By Department <img width="818" alt="image" src="https://user-images.githubusercontent.com/111030781/203207893-9013eb4c-b698-41e7-ac9f-0d008f2ce693.png">
+* By Department <img width="818" alt="image" src="https://user-images.githubusercontent.com/111030781/203207893-9013eb4c-b698-41e7-ac9f-0d008f2ce693.png">
+* To Group the data <img width="395" alt="image" src="https://user-images.githubusercontent.com/111030781/203208042-4a199b2d-c72b-4df2-b028-234ab1e32b44.png">
