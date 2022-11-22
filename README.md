@@ -5,7 +5,7 @@
 
 ## Results:
 #### * During the analysis, it was determined that the majority of those retiring were Sr Engineers and Sr Staff Accounting.
-Employees Leaving by Department![image](https://user-images.githubusercontent.com/111030781/203207119-2fbf672a-e83a-48aa-904a-8448ee3f7338.png)
+Employees Leaving by Title ![image](https://user-images.githubusercontent.com/111030781/203207119-2fbf672a-e83a-48aa-904a-8448ee3f7338.png)
 #### * In order to continue operation smoothly in foreseable future, the company will have to prioritize replacing the roles with the most employees that will be impacted by the silver tsunami. 
 #### * There are more people retiring than mentors available to coach the younger employees.
 #### * Senior Engineers accounted for more 1/3 of the total retirees.
